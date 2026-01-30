@@ -1,0 +1,106 @@
+{
+“website_info”: {
+“name”: “Shblood”,
+“title”: “Shblood - وێبسایتی فەرمی”,
+“language”: “ku”,
+“direction”: “rtl”
+},
+“social_links”: {
+“tiktok”: {
+“url”: “www.tiktok.com/@shblood_it”,
+“username”: “@shblood_it”,
+“icon”: “TikTok.gif”,
+“display_name”: “TikTok”,
+“animated”: true
+},
+“telegram”: {
+“url”: “https://t.me/ShBlod”,
+“username”: “@shblood”,
+“icon”: “Telegram.png”,
+“display_name”: “Telegram”,
+“animated”: false
+}
+},
+“content”: {
+“welcome”: {
+“line1”: “بەخێربێیت بۆ وێبسایتی شابڵۆد”,
+“line2”: “ئێرە وێبسایتی فەرمی شابڵۆدە”
+},
+“social_media_title”: “Social Media”,
+“join_message”: “جۆین بن هیوای سوود گەیاندن”,
+“footer”: {
+“text”: “ئەم وێبسایتە پارێزراوە بۆ چەناڵی شابڵۆد”,
+“telegram_link”: “https://t.me/shblood”
+}
+},
+“styling”: {
+“logo”: {
+“width”: “150px”,
+“height”: “150px”,
+“border_radius”: “20px”,
+“glow_effect”: true,
+“glow_color”: “rgba(255, 255, 255, 0.8)”
+},
+“colors”: {
+“primary”: “#667eea”,
+“secondary”: “#764ba2”,
+“text_primary”: “#333”,
+“text_secondary”: “#555”,
+“background_gradient”: “linear-gradient(135deg, #667eea 0%, #764ba2 100%)”
+},
+“fonts”: {
+“main_title”: {
+“size”: “48px”,
+“weight”: “bold”,
+“family”: “Arial Black, sans-serif”
+},
+“social_title”: {
+“size”: “28px”,
+“weight”: “bold”
+},
+“body_text”: {
+“size”: “14px”,
+“family”: “Segoe UI, Tahoma, Geneva, Verdana, sans-serif”
+}
+}
+},
+“animations”: {
+“logo_glow”: {
+“duration”: “2s”,
+“timing”: “ease-in-out”,
+“iteration”: “infinite”
+},
+“tiktok_bounce”: {
+“duration”: “1s”,
+“timing”: “ease-in-out”,
+“iteration”: “infinite”
+},
+“telegram_footer_rotate”: {
+“duration”: “3s”,
+“timing”: “linear”,
+“iteration”: “infinite”
+},
+“hover_lift”: {
+“transform”: “translateY(-5px)”,
+“duration”: “0.3s”
+}
+},
+“assets”: {
+“required_images”: [
+“logo.png”,
+“tiktok.gif”,
+“telegram.png”
+],
+“image_specifications”: {
+“logo”: “150x150px recommended, PNG format with transparency”,
+“tiktok”: “40x40px, GIF format with animation”,
+“telegram”: “40x40px, PNG format with transparency”
+}
+},
+“meta_tags”: {
+“description”: “وێبسایتی فەرمی شابڵۆد - Shblood Official Website”,
+“keywords”: “shblood, شابڵۆد, kurdish, social media, tiktok, telegram”,
+“author”: “Shblood Team”,
+“viewport”: “width=device-width, initial-scale=1.0”
+}
+}
